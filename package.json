@@ -1,0 +1,15 @@
+
+{
+  "name": "neyvo",
+  "version": "1.0.0",
+  "description": "Bot tickets Discord de /neyvo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^16.6.1"
+  }
+}

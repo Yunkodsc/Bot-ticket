@@ -1,0 +1,46 @@
+{
+  "panelTitle": "𓆩 𝐍𝐄𝐘𝐕𝐎 𝐒𝐇𝐎𝐏 𓆪",
+  "panelDescription": "🌊・Sélectionne une catégorie ci-dessous pour découvrir nos offres et trouver ce qu’il te faut !",
+  "panelColor": "#00A6C7",
+  "panelStyle": "dropdown",
+  "categories": [
+    {
+      "id": "nitro-boosts",
+      "name": "Nitro Boosts",
+      "emoji": "<:nitro:1483886575447310437>"
+    },
+    {
+      "id": "decorations",
+      "name": "Decorations",
+      "emoji": "<:Decorations:1508045410113945700>"
+    },
+    {
+      "id": "exchanges",
+      "name": "Exchanges",
+      "emoji": "<:exchange:1429927064508698767>"
+    },
+    {
+      "id": "servers-boosts",
+      "name": "Servers Boosts",
+      "emoji": "<:boosts:1558766917597274222>"
+    },
+    {
+      "id": "aged-discord-accounts",
+      "name": "Aged Discord Accounts",
+      "emoji": "<:accounts:1426502079073226924>"
+    }
+  ],
+  "staffRoleId": "1555572918254178358",
+  "logChannelId": "1555572919663464600",
+  "ticketCategoryId": "1559311384393810030",
+  "panelChannelId": "1558772853124628501",
+  "panelMessageId": "1558783747556376657",
+  "guildId": "1555572918254178354",
+  "color": "#0077BE",
+  "title": "🛒 Shop Tickets",
+  "description": "Sélectionner une catégorie ci-dessous",
+  "footer": "/neyvo • Support client",
+  "mode": "select",
+  "staffRole": "1555572918254178358",
+  "logChannel": "1555572919663464600"
+}
